@@ -9,5 +9,6 @@ i had lots of fun exploring this!
 
 <img width="1911" height="922" alt="image" src="https://github.com/user-attachments/assets/6917d096-04bd-4347-a5ed-3ca4c966edb1" />
 closest i got was using DAMP=1.000211  RMS=0.059215
+
 and yet so far if using better analysis:
 <img width="1911" height="922" alt="image" src="https://github.com/user-attachments/assets/fabcb695-6026-4c4e-bcb2-6b162e1d613b" />
